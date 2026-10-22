@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Práctica 2: Caos en sistemas biológicos'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - {}
+  - given-names: Laura Yesenia
+    family-names: Alarcón Garvalena
+    email: 16041206@itdurango.edu.mx
+    affiliation: TevNM / IT Tijuana
+repository-code: 'https://github.com/tigremiau/MMP2'
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-10-21'
